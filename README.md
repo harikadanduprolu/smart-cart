@@ -1,4 +1,4 @@
-# 🛒 Smart Cart (project-bolt-sb1-fhnsh3gw)
+# 🛒 Smart Cart 
 
 A cross-platform, AI-assisted **shopping basket app** built with **Expo**, **React Native**, and **TypeScript**. This app allows users to create, manage, and reuse smart shopping baskets, with features like AI recommendations, camera input, haptics, and smooth animations.
 
